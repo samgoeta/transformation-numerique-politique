@@ -1,0 +1,284 @@
+---
+title: "Transformation numérique du politique"
+subtitle: ""
+author: "Samuel Goëta, Sciences Po Aix"
+date: "Master 1 - 2024"
+output:
+  SlidesDatactivist::moon_reader:
+    css: [default, datactivist, datactivist-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+params:
+  event: Sciences Po Aix - Master 1
+  slug: cours-transformation-numerique
+---
+
+layout: true
+
+---
+
+class: center, middle
+
+Ces slides en ligne : `r paste0("http://datactivist.coop/", params$slug)`
+
+Sources : `r paste0("https://github.com/datactivist/", params$slug)`
+
+Les productions de Datactivist sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](https://creativecommons.org/licenses/by-sa/4.0/legalcode.fr).
+
+<BR>
+<BR>
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+
+
+---
+### Présentation du cours
+
+La transformation numérique affecte profondément le champ politique, modifiant les pratiques électorales, le débat public, la participation citoyenne et l'action publique. Ce cours de 20h propose d'analyser ces mutations en croisant les apports de la science politique et des études sur les sciences et technologies (STS). Il examine comment les dispositifs numériques reconfigurent les rapports de pouvoir, les pratiques démocratiques et les modes de gouvernement.
+
+À travers dix séances de 2h, les étudiants analyseront les impacts du numérique sur différentes dimensions du politique : la redéfinition des rapports public-privé, l'émergence de nouvelles formes d'expertise, la transformation de l'action publique par les outils numériques et les algorithmes. Le cours mobilise des études de cas concrets pour comprendre comment les technologies numériques transforment à la fois les institutions, les pratiques et les représentations politiques.
+
+
+---
+
+### Modalités pédagogiques
+
+Chaque séance de 2h s'organise en deux temps :
+
+.pull-left[
+#### 1. Introduction thématique (30min)
+- Contextualisation 
+- Enjeux principaux
+- Cadrage théorique
+
+.red[Les concepts présentés serviront de base pour l'examen oral]
+]
+
+.pull-right[
+#### 2. Atelier de lecture (1h30)
+- Lecture dirigée d'articles
+- Travail collectif
+- Discussion et débats
+
+.red[Les questions travaillées seront celles de l'examen]
+]
+
+---
+.red[A CONFIRMER]
+### Programme des séances
+
+.pull-left[
+#### Comprendre les transformations
+1. L'idéologie de la Silicon Valley
+2. Conseil numérique et expertise  
+3. Régulation des plateformes
+4. OSINT et renseignement
+5. Médiation numérique et inégalités
+]
+
+.pull-right[
+#### Explorer les impacts
+6. Administration numérique
+7. Pilotage par les données
+8. Professionnalisation politique
+9. Atelier d'écriture créative 
+10. Conférence-débat
+]
+
+---
+
+## Modalités d'évaluation
+
+.red[A confirmer : un oral individuel de 10 minutes]
+
+- Tirage au sort d'une question parmi celles travaillées en cours
+- 30 minutes de préparation
+- 10 minutes de présentation
+- Discussion avec les enseignants
+
+---
+
+class: inverse, center, middle
+
+# Séance 1 
+## L'idéologie de la Silicon Valley
+
+---
+.red[**Une question d'actualité**]
+
+<h3 style="margin-top:0px;margin-bottom:0px"> L'internationale réactionnaire ? </h3>
+
+![](img/internationale-reac.png)
+
+---
+.red[**Une question d'actualité**]
+
+<h3 style="margin-top:0px;margin-bottom:0px"> L'allégeance de Zuckerberg </h3>
+
+![](img/rogan-zuck.jpg)
+---
+.red[**Une question d'actualité**]
+
+<h3 style="margin-top:0px;margin-bottom:0px"> La nouvelle "olligarchie" </h3>
+
+[![](img/American-Oligarchy.webp)](https://www.motherjones.com/politics/2024/01/american-oligarchy/)
+
+---
+class:inverse, middle, center
+
+### Besoin d'un .red[retour en arrière] : l'imaginaire d'Internet
+
+---
+### 1950 : la capacité de calcul, une ressource rare
+
+![](img/mainframe.jpg)
+
+---
+### 1962 : la conception d'un réseau décentralisé 
+
+![](img/Arpanet_logical_map,_march_1977.png)
+
+---
+### 1969 : un réseau conçu par consensus 
+
+[![](img/rfc1.jpg)]
+
+
+---
+class:inverse
+
+.red[**L'étrange rencontre**]
+
+<h3 style="margin-top:0px;margin-bottom:0px"> Des technologies qui rencontrent les aspirations des hippies </h3>
+
+.pull-left[
+![](img/couv_utopie-numerique_grand.jpg)
+
+]
+
+.pull-right[
+2 questions à préparer : 
+
+1. Quel rôle ont joué les publications de Stewart Brand dans la rencontre entre la contre-culture et l'industrie de la tech ? 
+
+2. Peut-on parler de récupération de la contre-culture par l'industrie de la tech ?
+
+]
+
+---
+### L'héritage de la pensée cybernétique
+
+.pull-left[
+![](img/norbert-weiner.jpg)
+]
+
+.pull-right[
+![](img/brautigan.png)
+]
+
+---
+### Le Whole Earth Catalog et le WELL 
+
+![](img/whole-earth.webp)
+.footnote[[5 Ways Stewart Brand Changed Our Lives](https://noahny.com/blogs/news/5-ways-stewart-brand-changed-our-lives)]
+
+---
+### Brand : le père du long-termisme ?
+
+![](img/lnf.webp)
+---
+### .red[Patrice Flichy :] l'imaginaire d'Internet
+
+
+.left-column[
+![](img/flichy.jpg)
+]
+.right-column[
+Patrice Flichy montre comment s'est constitué un imaginaire autour d'Internet. Selon lui, 4 grands principes ressortent de l'analyse des textes de cette culture émergente : 
+
+1. L'échange et la coopération a d'abord lieu entre spécialistes
+2. C'est une communauté d'égaux où le statut de chacun repose sur le mérite, évalué par les pairs
+3. La coopération est centrale au cœur de l'activité scientifique
+4. C’est un monde à part, séparé du reste de la société. 
+
+]
+.footnote[Flichy, P. (2001), [L'imaginaire d'Internet](https://shs-cairn-info.lama.univ-amu.fr/l-imaginaire-d-internet--9782707135377-page-43?lang=fr), La Découverte.]
+
+---
+### L'éthique hacker
+
+.left-column[
+![](img/levy.jpg)
+
+
+]
+.right-column[
+
+
+Né au MIT, à Boston, à la fin des années 1970, le hacking (de l'anglais to hack : bidouiller) désigne une relation particulière à la technologie. Le journaliste Steven Levy résume cette éthique en 5 points : 
+
+1. Le hacker est curieux, il veut pouvoir explorer et manipuler les technologies
+2. L'information doit être libre.
+3. Le hacker se méfie de l'autorité et privélgie la décentralisation. 
+
+4. Le hacker doit être jugé selon ses hacks, selon son mérite.
+
+5. Les ordinateurs peuvent améliorer la vie et produire des choses belles et esthétiques.
+]
+
+.footnote[in Dominique Cardon, _Culture numérique_, presses de Sciences Po, 2019.]
+
+---
+### Un imaginaire encore très présent
+
+![](img/hacker.jpg)
+
+---
+### L'émergence du "cyber-libertarianisme"
+
+.pull-left[
+![](img/barlow.jpeg)
+]
+
+
+.pull-right[
+> Gouvernements du monde industriel, géants fatigués de chair et d’acier, je viens du cyberespace, nouvelle demeure de l’esprit. Au nom de l’avenir, je vous demande, à vous qui êtes du passé, de nous laisser tranquilles. Vous n’êtes pas les bienvenus parmi nous. Vous n’avez aucun droit de souveraineté sur nos lieux de rencontre.
+
+[Déclaration d'indépendance du cyberespace](https://fr.wikipedia.org/wiki/D%C3%A9claration_d%27ind%C3%A9pendance_du_cyberespace), John Perry Barlow, 1996
+]
+
+---
+class:inverse
+
+<h3 style="margin-top:0px;margin-bottom:0px"> L'émergence du cyber-libertarianisme </h3>
+
+.pull-left[
+![](img/loveluck.jpeg)  
+
+]
+
+.pull-right[
+Une question à préparer : 
+
+Quel est-ce que le libertarianisme ? 
+
+]
+
+---
+### .red[Pour finir :] la Paypal Mafia
+
+![](img/Paypal_Mafia_2014.jpg)
+---
+### Musk et la Paypal Mafia
+
+[![](img/saltiel.png)](https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/de-la-mafia-paypal-a-spacex-elon-musk-a-l-assaut-de-l-etat-4657289)
+---
+
+class: inverse, center, middle
+
+# Des questions ?
+
+Contact : [samuel.goeta@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr)
