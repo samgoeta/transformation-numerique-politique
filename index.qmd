@@ -632,7 +632,7 @@ Consignes :
 ::: {.column .text-white width="60%"}
 **Consignes :**
 
-1.  Répartissez vous en 6 groupes de taille équivalente\
+1.  Répartissez vous en 6 groupes de taille équivalente \
 2.  Lisez l'essentiel du chapitre en 25 minutes, sautez à la conclusion quand la fin approche\
 3.  Complétez avec le groupe la fiche arpentage en 15 minutes : les 3 idées essentielles, 2 citations, aimé/pas aimé\
 4.  Restituez votre arpentage en 3 min par groupe
