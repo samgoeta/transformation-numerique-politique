@@ -1,0 +1,537 @@
+---
+title: "Transformation numérique du politique"
+format: 
+  datactivist-revealjs:
+    css: |
+      @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+    slide-level: 2
+editor: visual
+---
+
+## Cette présentation en ligne
+
+<https://samgoeta.github.io/transformation-numerique-politique/>
+
+Sources : <https://github.com/samgoeta/transformation-numerique-politique>
+
+Ces slides sont librement réutilisables selon les termes de la licence [Creative Commons 4.0 BY-SA](#0).
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png){fig-align="center" width="90" height="31"}
+
+## Présentation du cours
+
+La transformation numérique affecte profondément le champ politique, modifiant les pratiques électorales, le débat public, la participation citoyenne et l'action publique. Ce cours de 20h propose d'analyser ces mutations en croisant les apports de la science politique et des études sur les sciences et technologies (STS). Il examine comment les dispositifs numériques reconfigurent les rapports de pouvoir, les pratiques démocratiques et les modes de gouvernement.
+
+À travers dix séances de 2h, les étudiants analyseront les impacts du numérique sur différentes dimensions du politique : la redéfinition des rapports public-privé, l'émergence de nouvelles formes d'expertise, la transformation de l'action publique par les outils numériques et les algorithmes. Le cours mobilise des études de cas concrets pour comprendre comment les technologies numériques transforment à la fois les institutions, les pratiques et les représentations politiques.
+
+## Modalités pédagogiques
+
+::::: columns
+::: {.column width="50%"}
+### 1. Introduction thématique (30min)
+
+-   Contextualisation
+-   Enjeux principaux
+-   Cadrage théorique
+
+[Les concepts présentés serviront de base pour l'examen oral]{style="color: #E95459;"}
+:::
+
+::: {.column width="50%"}
+### 2. Atelier de lecture (1h30)
+
+-   Lecture dirigée d'articles
+-   Travail collectif
+-   Discussion et débats
+
+[Les questions travaillées seront celles de l'examen]{style="color: #E95459;"}
+:::
+:::::
+
+## Programme des séances {background-color="#173541"}
+
+[A CONFIRMER]{style="color: #E95459;"}
+
+::::: columns
+::: {.column width="50%"}
+### Comprendre les transformations
+
+1.  L'idéologie de la Silicon Valley
+2.  Conseil numérique et expertise\
+3.  Régulation des plateformes
+4.  OSINT et renseignement
+5.  Médiation numérique et inégalités
+:::
+
+::: {.column width="50%"}
+### Explorer les impacts
+
+6.  Administration numérique
+7.  Pilotage par les données
+8.  Professionnalisation politique
+9.  Atelier d'écriture créative
+10. Conférence-débat
+:::
+:::::
+
+## Modalités d'évaluation
+
+[A confirmer : un oral individuel de 10 minutes]{style="color: #E95459;"}
+
+-   Tirage au sort d'une question parmi celles travaillées en cours
+-   30 minutes de préparation
+-   10 minutes de présentation
+-   Discussion avec les enseignants
+
+# Séance 1 : L'idéologie de la Silicon Valley {background-color="#173541"}
+
+## Une question d'actualité
+
+### L'internationale réactionnaire
+
+![](img/internationale-reac.png)
+
+## Une question d'actualité
+
+### L'allégeance de Zuckerberg
+
+![](img/rogan-zuck.jpg)
+
+## Une question d'actualité
+
+### La nouvelle "olligarchie"
+
+[![](img/American-Oligarchy.webp){fig-align="center" width="567"}](https://www.motherjones.com/politics/2024/01/american-oligarchy/)
+
+## Besoin d'un retour en arrière {background-color="#173541"}
+
+### L'imaginaire d'Internet
+
+## 1950 : la capacité de calcul, une ressource rare
+
+![](img/mainframe.jpg)
+
+## 1962 : la conception d'un réseau décentralisé
+
+![](img/Arpanet_logical_map,_march_1977.png)
+
+## 1969 : un réseau conçu par consensus
+
+![](img/rfc1.jpg)
+
+## L'étrange rencontre entre hippies et ingénieurs {background-color="#173541"}
+
+::::: columns
+::: {.column .text-white width="50%"}
+Extrait de Fred Turner, *Aux sources de l'utopie numérique* ![](img/couv_utopie-numerique_grand.jpg){width="300"}
+:::
+
+::: {.column .text-white width="50%"}
+2 questions à préparer 1. Quel rôle ont joué les publications de Stewart Brand dans la rencontre entre la contre-culture et l'industrie de la tech ?
+
+2.  Peut-on parler de récupération de la contre-culture par l'industrie de la tech ?
+:::
+:::::
+
+## L'héritage de la pensée cybernétique
+
+::::: columns
+::: {.column width="50%"}
+![](img/norbert-weiner.jpg)
+:::
+
+::: {.column width="50%"}
+![](img/brautigan.png)
+:::
+:::::
+
+## Le Whole Earth Catalog et le WELL
+
+![](img/whole-earth.webp)
+
+[5 Ways Stewart Brand Changed Our Lives](https://noahny.com/blogs/news/5-ways-stewart-brand-changed-our-lives)
+
+## Brand : le père du long-termisme ?
+
+![](img/lnf.webp)
+
+## [Patrice Flichy :]{style="color: #E95459;"} l'imaginaire d'Internet
+
+::::: columns
+::: {.column width="30%"}
+![](img/flichy.jpg)
+:::
+
+::: {.column width="70%"}
+Patrice Flichy montre comment s'est constitué un imaginaire autour d'Internet. Selon lui, 4 grands principes ressortent de l'analyse des textes de cette culture émergente :
+
+1.  L'échange et la coopération a d'abord lieu entre spécialistes
+2.  C'est une communauté d'égaux où le statut de chacun repose sur le mérite, évalué par les pairs
+3.  La coopération est centrale au cœur de l'activité scientifique
+4.  C'est un monde à part, séparé du reste de la société.
+
+Flichy, P. (2001), [L'imaginaire d'Internet](https://shs-cairn-info.lama.univ-amu.fr/l-imaginaire-d-internet--9782707135377-page-43?lang=fr), La Découverte.
+:::
+:::::
+
+## L'éthique hacker
+
+::::: columns
+::: {.column width="30%"}
+![](img/levy.jpg)
+:::
+
+::: {.column width="70%"}
+Né au MIT, à Boston, à la fin des années 1970, le hacking (de l'anglais to hack : bidouiller) désigne une relation particulière à la technologie. Le journaliste Steven Levy résume cette éthique en 5 points :
+
+1.  Le hacker est curieux, il veut pouvoir explorer et manipuler les technologies
+2.  L'information doit être libre.
+3.  Le hacker se méfie de l'autorité et privélgie la décentralisation.
+4.  Le hacker doit être jugé selon ses hacks, selon son mérite.
+5.  Les ordinateurs peuvent améliorer la vie et produire des choses belles et esthétiques.
+
+in Dominique Cardon, *Culture numérique*, presses de Sciences Po, 2019.
+:::
+:::::
+
+## Un imaginaire encore très présent
+
+![](img/hacker.jpg){fig-align="center"}
+
+## L'émergence du "cyber-libertarianisme"
+
+::::: columns
+::: {.column width="50%"}
+![](img/barlow.jpeg)
+:::
+
+::: {.column width="50%"}
+> Gouvernements du monde industriel, géants fatigués de chair et d'acier, je viens du cyberespace, nouvelle demeure de l'esprit. Au nom de l'avenir, je vous demande, à vous qui êtes du passé, de nous laisser tranquilles. Vous n'êtes pas les bienvenus parmi nous. Vous n'avez aucun droit de souveraineté sur nos lieux de rencontre.
+
+[Déclaration d'indépendance du cyberespace](https://fr.wikipedia.org/wiki/D%C3%A9claration_d%27ind%C3%A9pendance_du_cyberespace), John Perry Barlow, 1996
+:::
+:::::
+
+## L'émergence du cyber-libertarianisme {.text-white background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+Extrait de Benjamin Loveluck ![](img/loveluck.jpeg){width="288"}
+:::
+
+::: {.column .text-white width="50%"}
+Une question à préparer :
+
+Quel est-ce que le libertarianisme ?
+:::
+:::::
+
+## [Pour finir :]{style="color: #E95459;"} la Paypal Mafia
+
+![](img/Paypal_Mafia_2014.jpg)
+
+## Musk et la Paypal Mafia
+
+[![](img/saltiel.png)](https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/de-la-mafia-paypal-a-spacex-elon-musk-a-l-assaut-de-l-etat-4657289)
+
+# La mise en données du monde {background-color="#173541"}
+
+## La mise en données du monde {background-color="#173541"}
+
+### [c'est quoi pour vous ?]{style="color: #E95459;"}
+
+## La mise en données du monde {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+[Extrait : Kenneth Cukier & Viktor Mayer-Schönberger (2013), "Mise en données du monde, le déluge numérique", Le Monde Diplomatique.]{style="color: #E95459;"}
+
+![](images/cukier.png)
+:::
+
+::: {.column .text-white width="50%"}
+2 questions :
+
+1.  Qu'est ce que la datafication ou mise en données du monde ?
+
+2.  Qu'est ce qui change avec la mise en données du monde ?
+
+**Question bonus : peut-on échapper à la mise en données du monde ?**
+:::
+:::::
+
+## Faire exister le vivant avec des données
+
+<iframe width="560" height="500" src="https://www.youtube.com/embed/rwAKMs_54pI?si=gWYjVivhxrmfr-km" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+## Les données, une histoire pas si récente {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+[Extrait : Serge Abiteboul & Valérie Peugeot, *Terra data : qu'allons nous faire des données numériques ?*, Le Pommier, 2017.]{style="color: #E95459;"}
+
+![](images/terra.jpg){width="200"}
+:::
+
+::: {.column .text-white width="50%"}
+**3 questions :**
+
+1.  Quel est le lien entre la mise en données du monde et l'histoire de l'écriture ?
+
+2.  C'est quoi une trace numérique ?
+
+3.  Qu'est ce qui différencie une donnée de l'information et de la connaissance ?
+:::
+:::::
+
+## Les données et les faits {background-color="#173541"}
+
+::::: columns
+::: {.column .text-white width="50%"}
+Extrait de Rosenberg, "Data before the facts"
+
+![](images/raw.jpg){width="200"}
+:::
+
+::: {.column .text-white width="50%"}
+1.  C'est une quoi une donnée à la base ?
+
+2.  Comment a évolué la définition du terme ?
+
+3.  Qu'est ce qui est resté de cette définition ? Pourquoi parle-t-il d'une valeur rhétorique des données ?
+:::
+:::::
+
+## Knowledge is power ?
+
+<iframe width="560" height="500" src="https://www.youtube.com/embed/OyytdYzy3eA?si=YgulMrdiaS8V_hAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
+
+## Les traces numériques, une obsession contemporaine {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+![](images/furtifs.jpg){width="341"}
+:::
+
+::: {.column .text-white width="50%"}
+Pourquoi le texte insiste-t-il sur la dimension temporelle des traces ("ce qui subsiste d'une chose passée") ?
+
+Comment comprendre l'expression "société de la trace" utilisée à la fin du texte ?
+
+Que signifie la phrase "chaque acte individuel est par définition un écart dans la nébuleuse des données" ?
+
+Le texte suggère que le pouvoir a "besoin absolu de notre libre arbitre". Pourquoi ?
+:::
+:::::
+
+# L'Etat plateforme {background-color="#173541"}
+
+## Mais au fait...
+
+### [C'est quoi une plateforme ?]{style="color: #E95459;"}
+
+## Les plateformes numériques {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+[Jean-Samuel Beuscart et Patrice Flichy, "Plateformes numériques", Réseaux, 2018/6 n° 212]{style="color: #E95459;"}
+
+![](images/thumbnail.webp)
+:::
+
+::: {.column .text-white width="50%"}
+-   Quel est l'historique de la notion de plateforme ? D'où vient ce terme ?
+
+-   Qu'est ce qui différencie les plateformes numériques ?
+
+-   Quel est l'ambiguïté de la notion de plateforme selon Gilepsie ?
+:::
+:::::
+
+## Government as a platform {background-color="#173541"}
+
+::::: columns
+::: {.column .text-white width="50%"}
+[Tim O'Reilly, "Government as a platform" in Lathrop & Ruma, eds. (2010), Open Government: collaboration, transparency and participation in practice, O'Reilly.]{style="color: #E95459"}
+
+![](images/ogdbook.png){width="300"}
+:::
+
+::: {.column .text-white width="50%"}
+-   Quelles métaphores utilise-t-il pour justifier la notion d'Etat plateforme ?
+
+-   Qu'est ce que l'Etat plateforme ? Comment ça se traduit concrètement ?
+
+-   Où trouve-t-on dans le texte l'influence du cyberlibertarianisme ?
+:::
+:::::
+
+## L'Etat plateforme : traduction et mise en politique publique d'une idée {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+[Extrait : Pierre Pezziardi & Henri Verdier, "Des startups d'Etat à l'Etat plateforme", fondation pour l'innovation politique, 2016]{style="color: #E95459;"}
+
+![](images/platform.png){width="200"}
+:::
+
+::: {.column .text-white width="50%"}
+-   Quelles comparaisons font-ils avec les géants du web ?
+
+-   Comment traduisent-ils la notion de government as a platform ? Voit-on des différences ?
+
+-   Comment veulent-ils marquer une rupture ?
+:::
+:::::
+
+## Les startups d'Etat
+
+Voir aussi le site de beta.gouv.fr : <https://beta.gouv.fr/approche>
+
+![](images/startup.png){fig-align="center"}
+
+## Un exemple de traduction de l'Etat plateforme : [France Connect]{style="color: #E95459;"} {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+[Alauzen, M. (2019) . L'État plateforme et l'identification numérique des usagers Le processus de conception de FranceConnect. *Réseaux*, n° 213(1), 211-239.]{style="color: #E95459;"}
+
+![](images/thumbnail2.webp){width="200"}
+:::
+
+::: {.column .text-white width="50%"}
+-   Avec quelle approche de recherche l'autrice appréhende-t-elle la notion d'Etat plateforme ?
+
+-   C'est quoi France Connect ? Comment est-il emblématique de l'Etat plateforme ?
+
+-   Pourquoi est-ce une épreuve d'Etat ?
+:::
+:::::
+
+# La transparence des algorithmes publics {background-color="#173541"}
+
+## C'est quoi un algorithme ?
+
+![](images/def.png)
+
+Source : Observatoire Data Publica
+
+## Une définition officielle
+
+::::: columns
+::: {.column width="50%"}
+> «Un algorithme est la description d'une suite d'étapes permettant d'obtenir un résultat à partir d'éléments fournis en entrée.»
+:::
+
+::: {.column width="50%"}
+-   La « **description** » du modèle algorithmique peut être écrite en langage naturel (c'est-à-dire parlé par l'être humain). La transparence algorithmique : décrire une « suite d'étapes » qui suivent un ordre déterminé, une logique
+
+-   L'algorithme, c'est le traitement que suivent des « éléments fournis en entrée pour donner un "**résultat**"" qui doit répondre à un objectif fixé.
+
+-   Les « éléments fournis en entrée» sont les « **données** ». Elles sont importantes pour la description des algorithmes : leur origine, leur qualité, leurs caractéristiques vont avoir un impact sur le résultat.
+:::
+:::::
+
+## Un algorithme = une recette ?
+
+![](images/recette.png){fig-align="center" width="592"}
+
+Source : [Datalireladata](http://datalireladata.com/s/cuisine-un-algorithme_guide_scolaire.pdf)
+
+## Un extrait pour comprendre ces questions {background-color="#173541"}
+
+::::: columns
+::: {.column .text-white width="50%"}
+Extrait de **Défenseur des droits, *Algorithmes, systèmes d’IA et services publics : quels droits pour les usagers ? Points de vigilance et recommandations*, 2024.**
+
+![](images/defenseur.png){width="200"}
+:::
+
+::: {.column .text-white .text-white width="50%"}
+1.  Quelle est la différence entre un algorithme fermé et un algorithme apprenant ?
+
+2.  Qu'est ce qui différencie l'IA des algorithmes ?
+
+3.  Quels avantages trouve l'adminstration à utiliser des algorithmes ?
+:::
+:::::
+
+## Les usages des algorithmes
+
+::::: columns
+::: {.column width="50%"}
+Selon la CNIL (2017) : - Générer de la connaissance - Faire du matching - Prédire - Recommander - Aider à la décision
+:::
+
+::: {.column width="50%"}
+![](images/cnil_usages.png)
+:::
+:::::
+
+## Focus sur les usages des algorithmes publics
+
+![](images/usages_algo.png)
+
+Source : Observatoire Data Publica & Etalab
+
+## L'observatoire des algorithmes publics
+
+::::: columns
+::: {.column width="50%"}
+[![](images/odap.png)](https://odap.fr/inventaire/synthese/)
+:::
+
+::: {.column width="50%"}
+Sur Wooclap, indiquez l'algorithme quel algorithme vous trouvez :
+
+1.  révoltant
+
+2.  utile
+
+3.  intriguant
+:::
+:::::
+
+## Un exemple méconnu : le bouton poussoir aux passages piétons
+
+[![](images/loop.jpeg){fig-align="center" width="600"}](https://www.facebook.com/Loopsider/videos/le-bouton-poussoir-des-passages-pi%C3%A9tons-sert-il-%C3%A0-quelque-chose-/1169096853248688/?locale=fr_FR)
+
+## Un cas d'étude : l'algorithme local de Parcoursup à Sciences Po Bordeaux {background-color="#173541"}
+
+::::: columns
+::: {.column width="50%"}
+![](images/Sciences-Po-Bordeaux-notation-candidature.png)
+:::
+
+::: {.column .text-white width="50%"}
+1.  Pourquoi Sciences Po Bordeaux a développé son propre algorithme ?
+
+2.  Comment fonctionne cet algorithme local ?
+:::
+:::::
+
+## Un exemple extreme : le score coeur {background-color="#173541"}
+
+::::: columns
+::: {.column .text-white width="50%"}
+Henin, C. (2021) . Confier une décision vitale à une machine. Réseaux, N° 225(1), 187-213.
+
+![](images/thumbnail3.webp)
+:::
+
+::: {.column .text-white width="50%"}
+1.  Pourquoi l'ABM a-t-elle conçu cet algorithme ?
+
+2.  Qu'avez vous compris de son fonctionnement ?
+
+3.  Quels avantages les médecins tirent-ils de cet algorithme ?
+:::
+:::::
+
+# Des questions ? {background-color="#173541"}
+
+Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr)
