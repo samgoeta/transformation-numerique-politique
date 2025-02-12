@@ -124,3 +124,18 @@ body {
   color: white;
   text-decoration: underline;
 }
+
+/* Pour assurer la cohérence des textes */
+.reveal p {
+  color: #173541; /* Nuit de la charte */
+}
+
+/* Pour le texte en rouge */
+.reveal .red {
+  color: #E95459; /* Rouge de la charte */
+}
+
+/* Pour le texte en rouge dans les spans */
+.red {
+  color: #E95459;
+}

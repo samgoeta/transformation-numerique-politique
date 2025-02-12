@@ -586,6 +586,58 @@ Henin, C. (2021) . Confier une décision vitale à une machine. Réseaux, N° 22
 ::::
 :::::::
 
+## Le livre étudié
+
+::::::: columns
+:::: {.column width="60%"}
+::: incremental
+-   Une **cartographie critique** de l'IA comme système de pouvoir
+    -   Ressources naturelles et impact environnemental
+    -   Exploitation du travail humain invisible
+    -   Biais et discriminations des systèmes
+    -   Classification et surveillance des populations
+-   Un regard sur l' \[anatomie politique et matérielle de l'IA plutôt que sur ses promesses techniques
+:::
+::::
+
+:::: {.column width="40%"}
+![](https://www.zulma.fr/wp-content/uploads/Contreatlas-de-lintelligence-artificielle-380x568.jpg){width="250"}
+
+::: red
+🔍 Un livre dense qui se prête particulièrement bien à l'arpentage collectif pour en explorer toutes les dimensions !
+:::
+::::
+:::::::
+
+## Découverte du livre {background-color="#173541"}
+
+::: {.column .text-white width="40%"}
+#### Lisons ensemble un extrait de [l'introduction du livre](https://docs.google.com/document/d/1mEo62Q81vgjMhsEOcwKYrIPo6ibFogtw2TZE6MB6XnA/edit?tab=t.0) (30 min)
+:::
+
+::: {.column .text-white width="60%"}
+Consignes :
+
+1.  lisez l'introduction du livre dans son ensemble (5 pages)
+
+2.  Chacun·e d'entre vous, commentez une ou deux phrases qui vous paraissent les plus intéressantes d' l'extrait et dites pourquoi en commentaire. Si la phrase a déjà été commentée, répondez en commentaire.
+:::
+
+## Arpentage des chapitres en groupe {background-color="#173541"}
+
+::: {.column .text-white width="40%"}
+![](images/Fiche arpentage.png){width="300"}
+:::
+
+::: {.column .text-white width="60%"}
+**Consignes :**
+
+1.  Répartissez vous en 6 groupes de taille équivalente\
+2.  Lisez l'essentiel du chapitre en 25 minutes, sautez à la conclusion quand la fin approche\
+3.  Complétez avec le groupe la fiche arpentage en 15 minutes : les 3 idées essentielles, 2 citations, aimé/pas aimé\
+4.  Restituez votre arpentage en 3 min par groupe
+:::
+
 # Des questions ? {background-color="#173541"}
 
 Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr)
