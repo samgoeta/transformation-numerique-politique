@@ -532,6 +532,60 @@ Henin, C. (2021) . Confier une décision vitale à une machine. Réseaux, N° 22
 :::
 :::::
 
+# L'intelligence artificielle {background-color="#173541"}
+
+## L'arpentage : une méthode de lecture collective
+
+:::: {.column width="50%"}
+::: incremental
+-   Né dans les cercles ouvriers à la fin du XIXe siècle
+
+-   Utilisé par les résistants pendant la Seconde Guerre mondiale
+
+-   Une méthode de lecture collective pour rendre le savoir accessible
+:::
+::::
+
+:::: {.column width="50%"}
+::: incremental
+**Les objectifs :**
+
+-   Désacraliser le savoir et l'objet livre
+-   Rendre accessible la pensée des auteurs
+-   Partager les opinions de façon égalitaire
+-   Libérer la parole sur des sujets politiques
+:::
+::::
+
+## Les étapes de l'arpentage
+
+::::::: columns
+:::: {.column width="60%"}
+::: incremental
+1.  **Le découpage du livre**
+    -   Division de l'ouvrage en parties
+    -   Distribution aux participants
+    -   Désacralisation de l'objet
+2.  **La lecture individuelle**
+    -   Temps personnel de lecture
+    -   Identification des idées clés
+    -   Prise de notes
+3.  **La restitution collective**
+    -   Partage des lectures
+    -   Échange d'expériences
+    -   Construction collective du savoir
+:::
+::::
+
+:::: {.column width="40%"}
+::: red
+💡 L'arpentage permet l'accès au savoir sans barrière financière : pas besoin d'acheter le livre !
+:::
+
+*Une méthode toujours encadrée par un animateur qui facilite les échanges.*
+::::
+:::::::
+
 # Des questions ? {background-color="#173541"}
 
 Contact : [samuel.goeta\@sciencespo-aix.fr](mailto:samuel.goeta@sciencespo-aix.fr)
