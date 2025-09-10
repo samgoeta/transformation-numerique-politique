@@ -626,7 +626,7 @@ Consignes :
 ## Arpentage des chapitres en groupe {background-color="#173541"}
 
 ::: {.column .text-white width="40%"}
-![](images/Fiche arpentage.png){width="300"}
+![](images/Fiche%20arpentage.png){width="300"}
 :::
 
 ::: {.column .text-white width="60%"}
