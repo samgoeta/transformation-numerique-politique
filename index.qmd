@@ -24,65 +24,6 @@ La transformation numérique affecte profondément le champ politique, modifiant
 
 À travers dix séances de 2h, les étudiants analyseront les impacts du numérique sur différentes dimensions du politique : la redéfinition des rapports public-privé, l'émergence de nouvelles formes d'expertise, la transformation de l'action publique par les outils numériques et les algorithmes. Le cours mobilise des études de cas concrets pour comprendre comment les technologies numériques transforment à la fois les institutions, les pratiques et les représentations politiques.
 
-## Modalités pédagogiques
-
-::::: columns
-::: {.column width="50%"}
-### 1. Introduction thématique (30min)
-
--   Contextualisation
--   Enjeux principaux
--   Cadrage théorique
-
-[Les concepts présentés serviront de base pour l'examen oral]{style="color: #E95459;"}
-:::
-
-::: {.column width="50%"}
-### 2. Atelier de lecture (1h30)
-
--   Lecture dirigée d'articles
--   Travail collectif
--   Discussion et débats
-
-[Les questions travaillées seront celles de l'examen]{style="color: #E95459;"}
-:::
-:::::
-
-## Programme des séances {background-color="#173541"}
-
-[A CONFIRMER]{style="color: #E95459;"}
-
-::::: columns
-::: {.column width="50%"}
-### Comprendre les transformations
-
-1.  L'idéologie de la Silicon Valley
-2.  Conseil numérique et expertise\
-3.  Régulation des plateformes
-4.  OSINT et renseignement
-5.  Médiation numérique et inégalités
-:::
-
-::: {.column width="50%"}
-### Explorer les impacts
-
-6.  Administration numérique
-7.  Pilotage par les données
-8.  Professionnalisation politique
-9.  Atelier d'écriture créative
-10. Conférence-débat
-:::
-:::::
-
-## Modalités d'évaluation
-
-[A confirmer : un oral individuel de 10 minutes]{style="color: #E95459;"}
-
--   Tirage au sort d'une question parmi celles travaillées en cours
--   30 minutes de préparation
--   10 minutes de présentation
--   Discussion avec les enseignants
-
 # Séance 1 : L'idéologie de la Silicon Valley {background-color="#173541"}
 
 ## Une question d'actualité
@@ -102,6 +43,14 @@ La transformation numérique affecte profondément le champ politique, modifiant
 ### La nouvelle "olligarchie"
 
 [![](img/American-Oligarchy.webp){fig-align="center" width="567"}](https://www.motherjones.com/politics/2024/01/american-oligarchy/)
+
+## Une question d'actualité
+
+### Le techno-fascisme
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Freel%2F3043458065845058%2F&amp;show_text=false&amp;width=267&amp;t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true">
+
+</iframe>
 
 ## Besoin d'un retour en arrière {background-color="#173541"}
 
@@ -127,7 +76,9 @@ Extrait de Fred Turner, *Aux sources de l'utopie numérique* ![](img/couv_utopie
 :::
 
 ::: {.column .text-white width="50%"}
-2 questions à préparer 1. Quel rôle ont joué les publications de Stewart Brand dans la rencontre entre la contre-culture et l'industrie de la tech ?
+**2 questions à préparer**
+
+1.  Quel rôle ont joué les publications de Stewart Brand dans la rencontre entre la contre-culture et l'industrie de la tech ?
 
 2.  Peut-on parler de récupération de la contre-culture par l'industrie de la tech ?
 :::
@@ -232,7 +183,11 @@ Quel est-ce que le libertarianisme ?
 
 ## Musk et la Paypal Mafia
 
-[![](img/saltiel.png)](https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/de-la-mafia-paypal-a-spacex-elon-musk-a-l-assaut-de-l-etat-4657289)
+[![](img/saltiel.png){fig-align="center"}](https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/de-la-mafia-paypal-a-spacex-elon-musk-a-l-assaut-de-l-etat-4657289)
+
+## JD Vance, l'héritier de la Paypal Mafia
+
+[![](images/Capture d’écran 2026-01-19 à 15.51.45.png){fig-align="center"}](https://www.france.tv/documentaires/documentaires-societe/8056980-j-d-vance-la-revanche-d-une-amerique.html)
 
 # La mise en données du monde {background-color="#173541"}
 
