@@ -226,18 +226,18 @@ Extrait de la revue _Tèque_ ![](img/teque.png){width="288"}
 :::
 
 ::: {.column .text-white width="50%"}
-Une question à préparer :
+2 questions à préparer :
 
-Quelles sont les critiques adressées par l'auteur au longtermisme ? 
+1. Quelles sont les critiques adressées par l'auteur au longtermisme ? 
 
-Que signifie le "Jackpot longtermiste" ?
+2. Que signifie le "Jackpot longtermiste" ?
 
 
 :::
 :::::
 
 ## 
-<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/697213493bd119404bab1bfa" width="100%"></iframe>
+
 
 ## [Pour finir :]{style="color: #E95459;"} la Paypal Mafia
 
