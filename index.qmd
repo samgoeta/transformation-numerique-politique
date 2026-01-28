@@ -277,6 +277,9 @@ Extrait de la revue _Tèque_ ![](img/teque.png){width="288"}
 :::
 :::::
 
+## 
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/69779940fb0c52728a9382ec" width="100%"></iframe>
+
 ## Faire exister le vivant avec des données
 
 <iframe width="560" height="500" src="https://www.youtube.com/embed/rwAKMs_54pI?si=gWYjVivhxrmfr-km" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
@@ -303,6 +306,9 @@ Extrait de la revue _Tèque_ ![](img/teque.png){width="288"}
 :::
 :::::
 
+##
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/6977996698238314007085e7" width="100%"></iframe>
+
 ## Les données et les faits {background-color="#173541"}
 
 ::::: columns
@@ -321,6 +327,9 @@ Extrait de Rosenberg, "Data before the facts"
 :::
 :::::
 
+## 
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/69779982c8660dfc0d5ecdad" width="100%"></iframe>
+
 ## Knowledge is power ?
 
 <iframe width="560" height="500" src="https://www.youtube.com/embed/OyytdYzy3eA?si=YgulMrdiaS8V_hAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
@@ -335,15 +344,16 @@ Extrait de Rosenberg, "Data before the facts"
 :::
 
 ::: {.column .text-white width="50%"}
-Pourquoi le texte insiste-t-il sur la dimension temporelle des traces ("ce qui subsiste d'une chose passée") ?
 
 Comment comprendre l'expression "société de la trace" utilisée à la fin du texte ?
 
-Que signifie la phrase "chaque acte individuel est par définition un écart dans la nébuleuse des données" ?
 
 Le texte suggère que le pouvoir a "besoin absolu de notre libre arbitre". Pourquoi ?
 :::
 :::::
+
+## 
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/697799ecdf85d5c60ebf3bd6" width="100%"></iframe>
 
 # L'Etat plateforme {background-color="#173541"}
 
@@ -369,6 +379,9 @@ Le texte suggère que le pouvoir a "besoin absolu de notre libre arbitre". Pourq
 :::
 :::::
 
+## 
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/697a7d17b7f55b47e8662cb5" width="100%"></iframe>
+
 ## Government as a platform {background-color="#173541"}
 
 ::::: columns
@@ -386,6 +399,9 @@ Le texte suggère que le pouvoir a "besoin absolu de notre libre arbitre". Pourq
 -   Où trouve-t-on dans le texte l'influence du cyberlibertarianisme ?
 :::
 :::::
+
+##
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/697a7d350faa6737f01dde2e" width="100%"></iframe>
 
 ## L'Etat plateforme : traduction et mise en politique publique d'une idée {background-color="#173541"}
 
@@ -405,6 +421,9 @@ Le texte suggère que le pouvoir a "besoin absolu de notre libre arbitre". Pourq
 :::
 :::::
 
+##
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/697a7d580faa6737f01e13ca" width="100%"></iframe>
+
 ## Les startups d'Etat
 
 Voir aussi le site de beta.gouv.fr : <https://beta.gouv.fr/approche>
@@ -419,7 +438,7 @@ Voir aussi le site de beta.gouv.fr : <https://beta.gouv.fr/approche>
 
 ![](images/thumbnail2.webp){width="200"}
 :::
-
+ 
 ::: {.column .text-white width="50%"}
 -   Avec quelle approche de recherche l'autrice appréhende-t-elle la notion d'Etat plateforme ?
 
@@ -428,6 +447,10 @@ Voir aussi le site de beta.gouv.fr : <https://beta.gouv.fr/approche>
 -   Pourquoi est-ce une épreuve d'Etat ?
 :::
 :::::
+
+##
+
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/697a7d7e175950e2d04878f7" width="100%"></iframe>
 
 # La transparence des algorithmes publics {background-color="#173541"}
 
