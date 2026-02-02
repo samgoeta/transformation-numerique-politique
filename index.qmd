@@ -500,11 +500,22 @@ Extrait de **Défenseur des droits, *Algorithmes, systèmes d’IA et services p
 :::
 :::::
 
+##
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/6980d3c40be85ebb31c1f591" width="100%"></iframe>
+
+
 ## Les usages des algorithmes
 
 ::::: columns
 ::: {.column width="50%"}
-Selon la CNIL (2017) : - Générer de la connaissance - Faire du matching - Prédire - Recommander - Aider à la décision
+Selon la CNIL (2017) : 
+
+- Générer de la connaissance 
+
+- Faire du matching 
+- Prédire 
+- Recommander 
+- Aider à la décision
 :::
 
 ::: {.column width="50%"}
@@ -535,6 +546,9 @@ Sur Wooclap, indiquez l'algorithme quel algorithme vous trouvez :
 3.  intriguant
 :::
 :::::
+
+## 
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/6980d4170be85ebb31c2a330" width="100%"></iframe>
 
 ## Un exemple méconnu : le bouton poussoir aux passages piétons
 
@@ -571,6 +585,9 @@ Henin, C. (2021) . Confier une décision vitale à une machine. Réseaux, N° 22
 3.  Quels avantages les médecins tirent-ils de cet algorithme ?
 :::
 :::::
+
+##
+<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FXBNBC/questions/6980d474125ba90318b6759e" width="100%"></iframe>
 
 # L'intelligence artificielle {background-color="#173541"}
 
